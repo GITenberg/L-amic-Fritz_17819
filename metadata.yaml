@@ -1,0 +1,30 @@
+_repo: L-amic-Fritz_17819
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sitjar, Joan
+    gutenberg_agent_id: '7621'
+    url: http://www.gutenberg.org/2009/agents/7621
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+description: ''
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17819'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- 19th century -- Fiction'
+title: L'amic Fritz
+url: http://www.gutenberg.org/ebooks/17819
